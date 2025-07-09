@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-image: url(../images/Banner\ Image.png);
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color:white;
+    margin: 140px 140px 20px;
+    
+    
+}
+.hero-text{
+    font-size:xx-large;
+    padding-left: 352px;
+    padding-right: 336px;
+    padding-top: 117px;
+    padding-bottom: 117px;
+}
+
+.discount{
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+    margin-top: 120px;
+    font-weight: bold;
+    
+}
+
+.paragraph{
+    text-align: center;
+    margin-top: 48px;
+    font-weight: bold;
+    font-size: larger;
+}
+.holiday{
+    color: red;
+    margin-bottom: 16px;
+}
+.all{
+    color: black;
+    margin-bottom: 48px;
+}
