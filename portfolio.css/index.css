@@ -50,3 +50,41 @@
     color: black;
     margin-bottom: 48px;
 }
+
+.new-year{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 140px 140px 120px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 94px;
+   
+}
+
+.party{
+      color:white;
+      font-weight: bold;
+      font-size: large;
+      
+      
+}
+.class{
+    width: 319.83;
+    height: 464.66px;
+    margin-top: 68px;
+    margin-right: 138px;
+    margin-bottom: 67px;
+
+
+}
+.paragraph-1{
+    margin-top: 24px;
+    margin-bottom: 48px;
+    
+}
+.button{
+    border-radius: none;
+    font-size: large;
+}
